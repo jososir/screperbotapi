@@ -1,0 +1,23 @@
+
+{
+    "name": "Allinonebot",
+    "description": "ALLINONEBOT",
+    "repository": "https://github.com/kd2929/rasi-extract-",
+    "keywords": [
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+        "MOGO_URI": {
+            "description": "mogouri",
+            "value": "",
+        "required": false
+        },
+        "API_KEY": {
+            "description": "Your Host ",
+            "value": "",
+            "required": false
+        }
+    }
+
+}
